@@ -1,0 +1,3 @@
+- CS 294-158 Deep Unsupervised Learning, UC Berkeley
+  - course-page: https://sites.google.com/view/berkeley-cs294-158-sp20/home
+  - github-page: https://github.com/rll/deepul
